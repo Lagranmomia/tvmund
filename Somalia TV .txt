@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:0,Kalsan TV
+http://185.53.161.149:8888/play/a019
+#EXTINF:0,Somali Cable
+http://185.53.161.149:8888/play/a01a
+#EXTINF:0,Universal TV
+http://185.53.161.149:8888/play/a010

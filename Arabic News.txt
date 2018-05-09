@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:0,~ Arabic News ~
+http://192.99.35.215:5109/stream
+#EXTINF:0,Al Hurra
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:0,BBC
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:0,Deutsche Welle
+http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
+#EXTINF:0,NRT
+http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream_1/playlist.m3u8
+#EXTINF:0,RT Arabic
+http://secure-streams.akamaized.net/rt-arab/index1600.m3u8
+#EXTINF:0,RT Arabic HD
+http://secure-streams.akamaized.net/rt-arab/index.m3u8
+#EXTINF:0,TRT
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8

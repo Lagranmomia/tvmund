@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:0,CVM
+http://player.webvideocore.net/CL1olYogIrDWvwqiIKK7eBQU29OvUayFIJiGOZCgrkdXWwDIzxrtAl9mGmmC64HpEOM4Ge8KI-27SGqX_DJHyg==/a_n1eeiwgzyg0g.m3u8
+#EXTINF:0,JNN 
+http://54.152.138.11:1935/live/switching1/playlist.m3u8
+#EXTINF:0,Mello TV
+http://mellotvnew.tulix.tv/live/smil:mellotv.smil/master.m3u8

@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:0,Al Rai
+http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8
+#EXTINF:0,KTV 1
+https://svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8
+#EXTINF:0,KTV 1*
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv1
+#EXTINF:0,KTV 2
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv2
+#EXTINF:0,KTV 2*
+https://svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8
+#EXTINF:0,KTV Sport
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
+#EXTINF:0,KTV Al Arabi
+https://svs.itworkscdn.net/ktvarabelive/karabe.smil/playlist.m3u8
+#EXTINF:0,KTV Plus
+https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
+#EXTINF:0,KTV Al Majlis
+https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/playlist.m3u8
+#EXTINF:0,~ Oman TV ~
+http://www.lengua.com/anthems/Oman.mp3
+#EXTINF:0,Oman TV
+http://38.96.148.30:1935/live/omantv1//playlist.m3u8
+#EXTINF:0,Oman TV*
+http://37.152.128.66:7009/play/a00j
+#EXTINF:0,Oman Mubasher
+http://38.96.148.30:1935/live/omantv3/playlist.m3u8
+#EXTINF:0,Oman Documentary
+http://38.96.148.30:1935/live/omantv4/playlist.m3u8
+#EXTINF:0,Oman Sports
+http://38.96.148.30:1935/live/omantv2//playlist.m3u8
+#EXTINF:0,~ Yemen TV ~
+http://www.lengua.com/anthems/Yemen.mp3
+#EXTINF:0,Yemen TV
+http://streamer12.elementssys.com:8080/demo/Yemen/index.m3u8
+#EXTINF:0,Al Masirah
+http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8

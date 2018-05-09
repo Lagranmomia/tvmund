@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:0,aMazing TV
+http://n-4-16.dcs.redcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8
+#EXTINF:0,Stars TV
+http://starstv.live.e55-po.insyscd.net/starstvhd.smil/chunklist_b1100000.m3u8
+#EXTINF:0,Telewizja Republika
+http://stream4.videostar.pl/999_tvrtest/smil:4321abr.ism/playlist.m3u8
+#EXTINF:0,Twoja TV
+http://94.246.169.19/ttv_hls/live_270p/index.m3u8

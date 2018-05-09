@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:0,1Music
+http://x1-music-channelx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0,Hir TV
+http://streamserver.mno.netrix.hu/delayed.php.m3u8
+#EXTINF:0,M1 TV
+http://cdns724ste1010secure.shooowit.net/m1tvlive/smil:live.smil/playlist.m3u8
+#EXTINF:0,Tisza TV
+http://www.tiszatv.hu:443/tiszatv.f4v

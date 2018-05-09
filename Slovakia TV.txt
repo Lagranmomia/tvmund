@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:0,Senzi
+http://109.74.144.130/live/senzihity/senzihity.m3u8
+#EXTINF:0,TV 8
+http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
+#EXTINF:0,TVM
+http://s1.media-planet.sk:80/live/myjava1/BratuMarian.m3u8
+#EXTINF:0,TV Lux
+http://live.tvlux.sk:1935/lux/lux.stream_360p/chunklist_w1295439472.m3u8
+#EXTINF:0,TV Nitricka
+http://195.168.28.243/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:0,TVNZ
+http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8
+#EXTINF:0,TV Pezinok
+http://s1.media-planet.sk:80/live/pezinok/BratuMarian.m3u8

@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0,Afrique Media
+http://strhls.streamakaci.tv/str_afm_afm/str_afm_multi/str_afm_afm/str_afm_afm_360p/playlist.m3u8
+#EXTINF:0,Vision 4
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8

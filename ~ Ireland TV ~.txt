@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:0,TG4
+http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+#EXTINF:0,RTE News Now
+http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+#EXTINF:0,RTE 1
+http://akamai.rasset.ie/hls-live/_definst_/rte1/rte1-720.m3u8
+#EXTINF:0,RTE 2
+http://akamai.rasset.ie/hls-live/_definst_/rte2/rte2-720.m3u8
+#EXTINF:0,RTE Jr.
+https://cdn.rasset.ie/hls-live/_definst_/rtejr/rtejr-576.m3u8
+#EXTINF:0,~ Australia TV ~
+http://www.lengua.com/anthems/Australia.mp3
+#EXTINF:0,2GB Sydney
+http://syd2gbaud-lh.akamaihd.net/i/sydneygbaudio_1@367120/master.m3u8
+#EXTINF:0,2SM Sydney
+http://144.140.228.109:8220/mp3/master.m3u8
+#EXTINF:0,2UE Sydney
+http://syd2uevid-lh.akamaihd.net/i/sydneyuevid_1@110994/index_500_av-p.m3u8
+#EXTINF:0,2UE Sydney [AudioOnly]
+http://shout01.stream.hostworks.com.au/2ue_mp3/master.m3u8
+#EXTINF:0,3AW Melbourne
+http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
+#EXTINF:0,4BC Brisbane
+http://bris4bcvid-lh.akamaihd.net/i/brisbanebcvida_1@110989/master.m3u8
+#EXTINF:0,ABC Radio Sydney
+http://live-radio02.mediahubaustralia.com/2LRW/aac/master.m3u8
+#EXTINF:0,ABC Radio Canberra
+http://abcradiolivehls-lh.akamaihd.net/i/localcanberra_1@327263/master.m3u8
+#EXTINF:0,ABC Radio National
+http://live-radio01.mediahubaustralia.com/2RNW/aac/master.m3u8
+#EXTINF:0,ABC Jazz
+http://abcradiolivehls-lh.akamaihd.net/i/abcjazz_1@327288/master.m3u8
+#EXTINF:0,C31 Melbourne
+http://manifester-c31.mediafoundry.com.au/stream/c31melbourne/playlist.m3u8
+#EXTINF:0,Channel 44 Adelaide
+https://manifester-c44adelaide.mediafoundry.com.au/stream/c44adelaide_1/playlist.m3u8

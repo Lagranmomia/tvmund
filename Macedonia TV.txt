@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:0,Hugo TV
+http://h1.servemp3.com:1935/live/h1/hugo1.m3u8
+#EXTINF:0,Plus TV
+http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
+#EXTINF:0,Sky Folk TV
+http://skyfolk.mk/live.m3u8
+#EXTINF:0,TVPlus
+http://141.136.14.18/kanal1/kanal1.m3u8

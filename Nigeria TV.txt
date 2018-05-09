@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:0,TVC News
+http://77.92.76.135:1935/tvcnews/livestream/playlist.m3u8

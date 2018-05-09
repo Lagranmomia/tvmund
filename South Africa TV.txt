@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:0,Fashion One
+http://mn-i.mncdn.com/birnumaramedya_mobile/fashionone.sdp/playlist.m3u8

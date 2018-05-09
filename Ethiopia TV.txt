@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:0,Kana TV
+http://kanatv-lh.akamaihd.net/i/KanaTV_1@435010/master.m3u8

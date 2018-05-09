@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:0,Arirang (English)
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:0,CBS TV
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
+#EXTINF:0,KBS 2
+http://123.108.164.71/etv2/phd847/playlist.m3u8
+#EXTINF:0,KCTV
+http://122.202.129.136:1935/live/ch5/playlist.m3u8
+#EXTINF:0,KCTV-N
+http://122.202.129.136:1935/live/ch4/hasbahca.m3u8
+#EXTINF:0,Kids TV
+http://edge2.everyon.tv/etv2/phd1043/HasBahCa.m3u8
+#EXTINF:0,KTV
+http://111.118.21.79/etv1/phd393/playlist.m3u8
+#EXTINF:0,MBC
+http://119.202.61.202:1935/live/livetv/playlist.m3u8
+#EXTINF:0,TV Chosun
+http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8

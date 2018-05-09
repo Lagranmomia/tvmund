@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:0,Azad Azerbaijan TV
+http://85.132.71.6/iptv_atv_az/index.m3u8
+#EXTINF:0,AzTV
+http://85.132.71.6/azeri/aztv/index.m3u8
+#EXTINF:0,CBC Azerbaijan
+http://85.132.71.6/turk/cbc/index.m3u8
+#EXTINF:0,Dunya TV
+http://85.132.71.6/turk/dunya/index.m3u8
+#EXTINF:0,Ictimai TV
+http://85.132.71.6/iptv_ictimai/index.m3u8
+#EXTINF:0,Idman Azerbaijan TV
+http://85.132.71.6/turk/idman/index.m3u8
+#EXTINF:0,Lider TV
+http://85.132.71.6/iptv_lider/index.m3u8
+#EXTINF:0,Medeniyyet TV
+http://85.132.71.6/turk/medeniyyet/index.m3u8
+#EXTINF:0,Space TV
+http://85.132.71.6/iptv_space/index.m3u8
+#EXTINF:0,Xezer TV
+http://85.132.71.6/iptv_xazar/index.m3u8

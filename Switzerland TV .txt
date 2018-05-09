@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0,TeleBarn
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8
+#EXTINF:0,TeleTicino (Italian)
+http://rtmp.infomaniak.ch:1935/livecast/teleticinolive/livestream.m3u8

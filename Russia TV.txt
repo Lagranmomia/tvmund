@@ -1,0 +1,57 @@
+#EXTM3U 
+#EXTINF:0,1 HD
+http://80.250.191.10:1935/live/hlsstream343/playlist.m3u8
+#EXTINF:0,7 TV
+http://78.40.108.218/7channel/index.m3u8
+#EXTINF:0,9 Volna
+http://cdn-01.bonus-tv.ru/btv/9volna/type/user/devname/LG-SmartTV/devid/LG-1466490474/eol/20200101T0000/hash/706a3fe43fbf28dbe6f25d303072235c4a94ef86/playlist.m3u8
+#EXTINF:0,26 Region
+http://serv24.vintera.tv:8081/26region/26region1/playlist.m3u8
+#EXTINF:0,Akudji TV
+http://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:0,Avto 24
+http://62.76.26.81:8081/sport/auto24_09/playlist.m3u8
+#EXTINF:0,Euronews
+http://evronovosti.mediacdn.ru/sr1/evronovosti/chunklist_b2658304.m3u8
+#EXTINF:0,Game Show Studio
+http://cdn-01.bonus-tv.ru/btv/gameshow/type/user/devname/LG-SmartTV/devid/LG-1465295888/eol/20200101T0000/hash/87f43f0ab86fbdef780f16689b6318d079ae8d46/playlist.m3u8
+#EXTINF:0,HardLife TV
+http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8
+#EXTINF:0,HD Media 3D [Stereo-3D]
+http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
+#EXTINF:0,ID Fashion (English)
+http://95.67.8.22/hls/idfashion/index.m3u8
+#EXTINF:0,Impact
+http://206.190.141.27:1935/live/impact/playlist.m3u8
+#EXTINF:0,Kanal Omsk
+http://cdn-01.bonus-tv.ru/gtrkomsk/gtrkomsk/type/user/devname/LG-SmartTV/devid/LG-1469442137/eol/20200101T0000/hash/510de4d7c8db563c9e1f7bbe232311dd6f9fa531/playlist.m3u8
+#EXTINF:0,Life News
+http://tv.life.ru/lifetv/720p/index.m3u8
+#EXTINF:0,Match! Futbol 1
+http://iptv4u.club/site/freeiptv?channel=matchfootball1&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:0,Match! Futbol 2
+http://iptv4u.club/site/freeiptv?channel=matchfootball2&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:0,Match! Futbol 3
+http://iptv4u.club/site/freeiptv?channel=matchfootball3&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:0,Nano TV
+http://nano.teleservice.su:8080/hls/nano_europe.m3u8
+#EXTINF:0,O2 TV
+http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_hd.sdp/playlist.m3u8
+#EXTINF:0,RBC
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+#EXTINF:0,RT Documentary (English)
+https://secure-streams.akamaized.net/rt-doc/index.m3u
+#EXTINF:0,World Fashion
+http://cdn-01.bonus-tv.ru:9090/wfc/wfhd/type/none/eol/20200101T0000/hash/9a88dd19442705b52370171ff0c442e002c0e219/playlist.m3u8
+#EXTINF:0,RZD TV
+http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
+#EXTINF:0,Mir 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:0,Moya Planeta
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/master.m3u8
+#EXTINF:0,Perviy Kanal
+http://tvm10.gcdn.co/piktv/ngrp:piktv_all/tracks-v1a1/index.m3u8
+#EXTINF:0,TRO Soyuz
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:0,24 Krim
+http://vid.techbee.pro:8080/crimea24/index.m3u8

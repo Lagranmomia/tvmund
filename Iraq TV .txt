@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:0,Al Forat
+http://alforatlive.nanocdn.com:1935/live/alforat256/playlist.m3u8
+#EXTINF:0,Al Rasheed
+http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
+#EXTINF:0,Al Sharqiya
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:0,Sharqiya News
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8

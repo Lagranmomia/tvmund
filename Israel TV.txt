@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:0,Channel 2 
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_550_av-b.m3u8
+#EXTINF:0,Channel 2*
+http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile3.m3u8
+#EXTINF:0,Channel 10
+http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8
+#EXTINF:0,Channel 20
+http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/high/chunks.m3u8
+#EXTINF:0,Hidabroot TV
+https://stream72.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist_b1248000.m3u8
+#EXTINF:0,Reshet
+http://reshet207788-i.akamaihd.net/hls/live/207509/live/high.m3u8
+#EXTINF:0,Reshet*
+http://besttv1.aoslive.it.best-tv.com/reshet/studio/index_1.m3u8 
+#EXTINF:0,KAN 11
+http://82.80.192.28/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
+#EXTINF:0,Knesset Channel
+http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8 
+#EXTINF:0,Keshet 
+http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
+#EXTINF:0,Music 24 
+http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8
+#EXTINF:0,ILand TV (Russian)
+http://146.185.61.140:1935/live/myStream/playlist.m3u8
+#EXTINF:0,Discovery Channel [Geo]
+http://s1-p3.peer5.net/edge/44-1.stream/chunklist.m3u8
+#EXTINF:0,Disney Channel [Geo]
+http://s1-p3.peer5.net/edge/41-1.stream/chunklist.m3u8
+#EXTINF:0,National Geographic [Geo]
+http://s1-p3.peer5.net/edge/13-1.stream/chunklist.m3u8

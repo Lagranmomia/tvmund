@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:0,AABC TV
+http://204.174.104.71:88/AABC_WEB_1201/aabc/index.m3u8
+#EXTINF:0,MTV.AM
+http://mtvam.ru/hlsam/playlist.m3u8
+#EXTINF:0,PanArmenian TV
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@535484/master.m3u8

@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0,Nessma 
+http://cdn-hls.globecast.tv/live/ramdisk/nessma_eur/hls_video/nessma_eur-video=1562800-audio_AACL_und_65200_120=65200.m3u8
+#EXTINF:0,Nessma*
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nessma

@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0,Sabaidee TV
+http://stream.rs.co.th/sbd-low/index.m3u8
+#EXTINF:0,Thairath TV
+http://live.thairath.co.th/trtv2/playlist.m3u8

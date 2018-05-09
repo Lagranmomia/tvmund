@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:0,92 News
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+#EXTINF:0,Aitmad TV
+http://streamer12.dstreamone.com/live/aitmadtv/playlist.m3u8
+#EXTINF:0,ARY Digital
+http://149.202.205.24:1935/DIGITAL/myStream/playlist.m3u8
+#EXTINF:0,ARY News
+http://158.69.228.195:1935/newsmobile/myStream/playlist.m3u8
+#EXTINF:0,Dunya TV
+http://imob.dunyanews.tv:1935/live/smil:stream.smil/playlist.m3u8
+#EXTINF:0,Eye 95 TV (US)
+http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
+#EXTINF:0,Geo News
+http://stream.jeem.tv/geo/geonews/playlist.m3u8
+#EXTINF:0,Hum TV 
+https://live.tune.tv/humtv/hum-tv/chunklist_w.m3u8
+#EXTINF:0,Hum Masala 
+https://live.tune.tv/humasala/hum-asala/chunklist_w.m3u8
+#EXTINF:0,PTV News
+http://67.231.248.131:1935/live/PTVnews/chunklist_w1281891626.m3u8
+#EXTINF:0,PTV Sports
+http://185.142.239.164:3135/Ptv/Sports/index.m3u8
+#EXTINF:0,Samaa
+http://samaatr.videocdn.scaleengine.net/samaatr-iphone/play/samaatr_264k.stream/playlist.m3u8
+#EXTINF:0,Samaa*
+http://samaatr.videocdn.scaleengine.net/samaatr-live/play/samaatr.stream/playlist.m3u8
+#EXTINF:0,Tez
+http://stream.jeem.tv/geo/geotezz/playlist.m3u8

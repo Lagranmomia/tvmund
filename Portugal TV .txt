@@ -1,0 +1,27 @@
+#EXTM3U 
+#EXTINF:0,Agueda TV
+http://cmgaia.worldvds.com:8080/hls/livestream.m3u8
+#EXTINF:0,Porto Canal
+http://213.13.26.41:1935/live/portocanal/KodiPortugal.pt.m3u8
+#EXTINF:0,RTP 1
+http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/KodiPortugal.pt.m3u8
+#EXTINF:0,RTP2
+http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/KodiPortugal.pt.m3u8
+#EXTINF:0,RTP Acores
+http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpacores_5rtpacores.stream/KodiPortugal.pt.m3u8
+#EXTINF:0,RTP Africa
+http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/KodiPortugal.pt.m3u8
+#EXTINF:0,RTP Internacional
+http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpi_5ch120h264.stream/KodiPortugal.pt.m3u8
+#EXTINF:0,RTP Madeira
+http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmadeira_5ch1016h264H14.stream/KodiPortugal.pt.m3u8
+#EXTINF:0,RTP Memoria
+http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/KodiPortugal.pt.m3u8
+#EXTINF:0,TVI
+http://video-live.iol.pt:1935/live_tvi+/smil:LIVE_TVI+/livestream.m3u8
+#EXTINF:0,TVI
+http://www.iptvsaga.com/play/tv3/0021.m3u8
+#EXTINF:0,TVI 24
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/livestream.m3u8
+#EXTINF:0,RTC (CV)
+http://213.13.26.11:1935/live/rtc_teste/livestream.m3u8

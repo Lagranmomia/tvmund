@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:0,Al Aan
+http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_w636969599_b800000_t64NTc2cA==.m3u8
+#EXTINF:0,Al Arabiya
+http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
+#EXTINF:0,CNBC Arabiya
+http://199.167.151.237:1935/live/sp15_37.stream/gmswf.m3u8
+#EXTINF:0,Emarat TV
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
+#EXTINF:0,Dubai TV
+http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/master.m3u8
+#EXTINF:0,Dubai TV*
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
+#EXTINF:0,Dubai One
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
+#EXTINF:0,Dubai Zaman
+http://dmivll.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1200000.m3u8
+#EXTINF:0,Dubai Zaman*
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
+#EXTINF:0,Dubai Sports
+http://selevision9888-i.akamaihd.net/hls/live/219305/98888/1.m3u8
+#EXTINF:0,Dubai Sports*
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+#EXTINF:0,Sama Dubai
+http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/master.m3u8
+#EXTINF:0,Sama Dubai*
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
+#EXTINF:0,YAS Sports
+http://selevision9878-i.akamaihd.net/hls/live/219130/98782/master.m3u8
+#EXTINF:0,Dubai Racing 1
+http://dmivll.mangomolo.com/events/smil:events.smil/master.m3u8
+#EXTINF:0,Dubai Racing 2
+http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/master.m3u8
+#EXTINF:0,Abu Dhabi TV
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
+#EXTINF:0,Abu Dhabi Drama
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
+#EXTINF:0,National Geographic
+http://adtv.ercdn.net/adnatgeo/adnatgeo.m3u8
+#EXTINF:0,Abu Dhabi Sports
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+#EXTINF:0,Abu Dhabi Sports SD
+http://adtv.ercdn.net/adsport1/adsport1.m3u8
+#EXTINF:0,Abu Dhabi Sports SD*
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+#EXTINF:0,Abu Dhabi Sports HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:0,Abu Dhabi Sports 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:0,Abu Dhabi Sports 2 SD
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+#EXTINF:0,Abu Dhabi Sports 2 SD*
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+#EXTINF:0,Abu Dhabi Sports 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:0,Abu Dhabi Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+#EXTINF:0,Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF:0,Abu Dhabi Sports 5
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
+#EXTINF:0,Abu Dhabi Sports 6
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
+#EXTINF:0,beIN Sports 1
+http://iptv4u.club/site/freeiptv?channel=beinsports1&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:0,beIN Sports 2
+http://iptv4u.club/site/freeiptv?channel=beinsports2&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:0,beIN Sports 3
+http://iptv4u.club/site/freeiptv?channel=beinsports3&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:0,beIN Sports 4
+http://iptv4u.club/site/freeiptv?channel=beinsports4&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:0,beIN Sports 5
+http://iptv4u.club/site/freeiptv?channel=beinsports5&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:0,beIN Sports 6
+http://iptv4u.club/site/freeiptv?channel=beinsports6&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:0,beIN Sports 7
+http://iptv4u.club/site/freeiptv?channel=beinsports7&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:0,beIN Sports 8
+http://iptv4u.club/site/freeiptv?channel=beinsports8&e=1508211057&acc=test&exp=1510789576&t=.m3u8

@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:0,City TV
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
+#EXTINF:0,Heavy Metal Television
+http://70.166.98.130:1935/hmtv/myStream/playlist.m3u8
+#EXTINF:0,MM TV
+http://live-24.viewer.dacast.com/i/dclive_1@407356/master.m3u8
+#EXTINF:0,Planeta HD
+http://84.43.207.130/planetahd/planetahd.m3u8
+#EXTINF:0,Tatai Televizio
+http://91.82.85.41:1935/liverelay/tataitv.sdp/playlist.m3u8
+#EXTINF:0,TV Stoichev
+http://ios.cdn.bg:2015/fls/tvstoichev.stream/playlist.m3u8
+#EXTINF:0,The Voice
+http://31.13.217.76:1935/rtplive/thevoice_live.stream/playlist.m3u8
+#EXTINF:0,Vibee TV
+http://46.101.21.42:8081/live/live2/playlist.m3u8

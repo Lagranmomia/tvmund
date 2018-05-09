@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:0,ATV (Dutch)
+http://urtmpkal-f.akamaihd.net/i/1ut1nl3fq_1@316656/master.m3u8
+#EXTINF:0,MNM (Dutch)
+http://live.stream.vrt.be/vrt_mnm_live/smil:vrt_mnm_live.smil/playlist.m3u8
+#EXTINF:0,Notele (French)
+http://streaming06.axeweb.be/live/direct.stream/playlist.m3u8
+#EXTINF:0,NRJ Hits TV (French)
+http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
+#EXTINF:0,NRJ Hits TV* (French)
+http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
+#EXTINF:0,RTL-TVI
+http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
+#EXTINF:0,Telesambre (French)
+http://vm109.imust.org:1935/live/telesambre-live/playlist.m3u8
+#EXTINF:0,TVL (Dutch)
+http://urtmpkal-f.akamaihd.net/i/1ef9833b4_1@128347/master.m3u8
+#EXTINF:0,TV OOST
+http://urtmpkal-f.akamaihd.net/i/156m2vpg5_1@322941/index_1_av-p.m3u8

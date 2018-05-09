@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0,Belarus 24
+http://video.tvr.by:1935/belarus24/live/playlist.m3u8
+#EXTINF:0,STV
+http://93.125.30.18:1935/ctv/live.stream/manifest.m3u8

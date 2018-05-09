@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:0,24/7 Animated Movies
+http://live-tx-hdl.huomaotv.cn/live/4bgtCR24082.m3u8
+#EXTINF:0,24/7 Blockbuster Movies
+http://live-tx-hdl.huomaotv.cn/live/buxKMY24084.m3u8
+#EXTINF:0,24/7 Superhero Movies
+http://live-tx-hdl.huomaotv.cn/live/9gFWYZ24081.m3u8
+#EXTINF:0,CGTN
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:0,CGTN America
+http://api.new.livestream.com/accounts/7082210/events/7115682/live.m3u8
+#EXTINF:0,CGTN Documentary
+http://live.cgtn.com/cctv-d.m3u8
+#EXTINF:0,CCTV 13
+http://61.155.167.11/live/cctv13.m3u8
+#EXTINF:0,China Business Network
+http://w1.livecache.yicai.com/hls/live/CBN_hd/live.m3u8
+#EXTINF:0,China Business Network*
+http://ktv009.cdnak.ds.kylintv.net/nlds/kylin/cbn/as/live/cbn_3.m3u8
+#EXTINF:0,China Weather TV [NoKodi]
+http://webcast.weathertv.cn/tslsChannelLive/qCFIfHB/live/playlist.m3u8
+#EXTINF:0,Dragon TV
+http://eshare.live.otvcloud.com/otv/nyz/live/channel10/700.m3u8
+#EXTINF:0,Guangdong TV
+http://eshare.live.otvcloud.com/otv/nyz/live/channel11/700.m3u8
+#EXTINF:0,Hunan TV
+http://eshare.live.otvcloud.com/otv/nyz/live/channel89/700.m3u8
+#EXTINF:0,Hunan TV*
+http://219.146.248.44/live/5/30/e9301e073cf94732a380b765c8b9573d.m3u8?type=web.cloudplay
+#EXTINF:0,Jilin TV
+http://eshare.live.otvcloud.com/otv/nyz/live/channel25/700.m3u8
+#EXTINF:0,Oriental Finance Pudong
+http://w1.livecache.yicai.com/hls/live/dftv_hd/live.m3u8
+#EXTINF:0,Sichuan TV
+http://eshare.live.otvcloud.com/otv/nyz/live/channel18/700.m3u8
+#EXTINF:0,Shandong TV
+http://eshare.live.otvcloud.com/otv/nyz/live/channel26/700.m3u8
+#EXTINF:0,SinoVision (US)
+http://ec.sinovision.net/video/ts/lv.m3u8
+#EXTINF:0,The Travel Channel
+http://pili-live-hls.livelvy.sobeycache.com/livelvy/lvy1.m3u8
+#EXTINF:0,Tianjin TV
+http://eshare.live.otvcloud.com/otv/nyz/live/channel24/700.m3u8
+#EXTINF:0,Zhejiang TV
+http://eshare.live.otvcloud.com/otv/nyz/live/channel90/700.m3u8

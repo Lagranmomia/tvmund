@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:0,ALB UK
+http://188.138.17.8:1935/albuk/albuk.stream/playlist.m3u8
+#EXTINF:0,ALB UK Plus
+http://188.138.17.8:1935/albuk/albukplus.stream/playlist.m3u8
+#EXTINF:0,ALB Music HD
+http://188.138.17.8:1935/albuk/albmus.stream/playlist.m3u8
+#EXTINF:0,Albanian TV of America
+http://stream.shqiptv.com:7080/altvusa/index.m3u8
+#EXTINF:0,Apollon TV
+http://185.80.224.14:554/live/rtmp.stream/playlist.m3u8
+#EXTINF:0,Dasma TV
+http://91.187.117.230:8080
+#EXTINF:0,Film Nje HD
+http://95.107.132.218/out/u/135_1.m3u8
+#EXTINF:0,Film Dy HD
+http://95.107.132.218/out/u/151_1.m3u8
+#EXTINF:0,Jolly HD
+http://95.107.132.100/out/u/231_1.m3u8 
+#EXTINF:0,Jug TV
+http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
+#EXTINF:0,Living TV
+http://95.107.132.100/out/u/212_3.m3u8
+#EXTINF:0,News 24
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:0,Report-TV
+http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
+#EXTINF:0,Rrokum TV
+http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
+#EXTINF:0,RTSH
+http://95.107.132.100/out/u/246_3.m3u8
+#EXTINF:0,RTK 1 [Kosovo]
+http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
+#EXTINF:0,RTK 2 [Kosovo]
+http://stream2.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
+#EXTINF:0,RTK 3 [Kosovo]
+http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
+#EXTINF:0,RTK 4 [Kosovo]
+http://84.22.56.10:1935/rtk4stream/rtk4.stream/playlist.m3u8
+#EXTINF:0,RTV Zik (Denmark)
+http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/playlist.m3u8
+#EXTINF:0,Super Sonic TV
+http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
+#EXTINF:0,STV Folk
+http://str103.setplex.net:1935/228/stv_folk/playlist.m3u8
+#EXTINF:0,Tring
+http://95.107.132.100/out/u/287_3.m3u8
+#EXTINF:0,Tring 3Plus
+http://5.135.92.130:5749/out/u/235_182.m3u8
+#EXTINF:0,Tring Planet
+http://95.107.132.100/out/u/269_1.m3u8
+#EXTINF:0,Tring Shqip
+http://5.135.92.130:5749/out/u/225_178.m3u8
+#EXTINF:0,Tring Tring
+http://95.107.132.100/out/u/260_1.m3u8
+#EXTINF:0,Tring World
+http://95.107.132.100/out/u/299_1.m3u8
+#EXTINF:0,Vizion Plus
+http://95.107.132.100/out/u/412_3.m3u8

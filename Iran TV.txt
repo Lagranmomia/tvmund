@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:0,BBC
+http://bbcwshdlive01-lh.akamaihd.net/i/ptv_1@78015/master.m3u8
+#EXTINF:0,Gem TV (USA)
+http://63.237.48.3/ios/GEM_USA/GEM_USA.m3u8
+#EXTINF:0,iFilm
+http://efusion1-i.akamaihd.net/hls/live/252882/ifilmfa/playlist.m3u8
+#EXTINF:0,iFilm (Arabic)
+http://178.32.255.199:1935/live/ifilmar/chunklist.m3u8
+#EXTINF:0,Manoto
+https://manotolive-i.akamaihd.net/hls/live/251779/livexhq/master.m3u8
+#EXTINF:0,Mihan TV
+http://watch.mihantv.com/mihantvlive.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0,Radio Farda
+http://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
+#EXTINF:0,VoA
+http://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8

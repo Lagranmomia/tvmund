@@ -1,0 +1,83 @@
+#EXTM3U
+#EXTINF:0,A Spor HD
+http://85.132.71.6/turk/aspor/index.m3u8
+#EXTINF:0,AKSU TV
+http://stream.taksimbilisim.com:1935/aksutv/smil:aksutv.smil/playlist.m3u8
+#EXTINF:0,Benguturk TV
+http://yayin8.canliyayin.org:1935/benguturk/benguturk/playlist.m3u8?wowzasessionid=379483538
+#EXTINF:0,Bursapor TV
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/radyodelisi.m3u8
+#EXTINF:0,Cay TV
+http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
+#EXTINF:0,CNN Turk
+http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:0,Dream TV
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:0,Dreamturk TV
+http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
+#EXTINF:0,Dost TV
+http://yayin.dosttv.com:1935/dosttv/dosttv2/playlist.m3u8
+#EXTINF:0,Guney TV Tarsus
+rtmp://stream.taksimbilisim.com:1935/tarsusguneytv/bant1
+#EXTINF:0,IBB TV
+rtmp://wowza.istweb.tv:1935/webtv/webtv_wowza1
+#EXTINF:0,Kanal 24
+http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
+#EXTINF:0,Kanal A
+http://stream.n3.noc.com.tr/kanala/kanala/chunklist_w1082384770.m3u8
+#EXTINF:0,Kanal D
+http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
+#EXTINF:0,Kanal D*
+http://live.netd.com.tr/S1/HLS_LIVE/kanald/index.m3u8
+#EXTINF:0,Kanal V
+rtmp://stream2.taksimbilisim.com/kanalvip/bant1
+#EXTINF:0,Meclis TV
+http://mecliscanlitv-lh.akamaihd.net:80/i/MECLISTV_1@127503/master.m3u8
+#EXTINF:0,Semerkand SD
+http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
+#EXTINF:0,Semerkand HD
+http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
+#EXTINF:0,Show Max
+http://mn-l.mncdn.com:1935/showmax/showmax2/master.m3u8
+#EXTINF:0,SportsTV
+http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
+#EXTINF:0,Sun TV Mersin
+rtmp://stream2.taksimbilisim.com:1935/mersinsuntv/bant1
+#EXTINF:0,Teve2
+http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
+#EXTINF:0,TGRT Belgesel
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/amlst:live-30/playlist.m3u8
+#EXTINF:0,TJK TV
+http://tjktv.ercdn.net/tjktv_576p.m3u8
+#EXTINF:0,TRT 1
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:0,TRT Avaz
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+#EXTINF:0,TRT Belgesel
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
+#EXTINF:0,TRT Cocuk
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+#EXTINF:0,TRT Haber
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+#EXTINF:0,TRT Muzik
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+#EXTINF:0,TRT Okul
+http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
+#EXTINF:0,TRT Spor
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
+#EXTINF:0,TRT Turk
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+#EXTINF:0,TV 4
+http://mn-l.mncdn.com:1935/r_karamel/karamel/master.m3u8
+#EXTINF:0,TV 10
+rtmp://5.135.142.60:1935/tv10/xetero
+#EXTINF:0,TV 41
+rtmp://stream.taksimbilisim.com/tv41/bant1
+#EXTINF:0,TV 52
+rtmp://stream.taksimbilisim.com/tv52/bant1
+#EXTINF:0,TV 2000
+rtmp://stream.taksimbilisim.com/tv2000/bant1
+#EXTINF:0,TVNET
+http://canli2.tvnet.tv.tr/live/smil:tvnet.smil/chunklist_b850000.m3u8
+#EXTINF:0,Vulsat TV
+http://yayin3.canlitv.com:1935/live/vuslattv/playlist.m3u8

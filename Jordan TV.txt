@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:0,Al Taghier
+http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3u8
+#EXTINF:0,Amen FM 89.5
+http://185.27.116.54:1935/live/amn/chunklist_w1521888123.m3u8
+#EXTINF:0,Semsem
+http://streaming.i-sat.tv:1935/live/semsem/playlist.m3u8
+#EXTINF:0,Toyor Al Jannah TV
+http://199.167.151.237:1935/live/sp15_47.stream/gmswf.m3u8

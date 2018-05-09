@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:0,ANN
+http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
+#EXTINF:0,Sama TV
+http://sama-tv.net:1935/live/samatv/playlist.m3u8
+#EXTINF:0,Syria News
+http://82.137.248.16:1935/Snews/SnewsLive3/playlist.m3u8
+#EXTINF:0,Syria TV
+http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8
+#EXTINF:0,Nabd Syria
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nabdsyria

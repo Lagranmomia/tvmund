@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:0,Alpha Cinema (AU)
+http://web.alphastream.eu:1935/neakrith/neakrith/playlist.m3u8
+#EXTINF:0,Epsilon TV
+https://57b1c3ae400ed.streamlock.net/live/epsilontv/playlist.m3u8
+#EXTINF:0,Lampsi TV
+http://live.streams.ovh:1935/LampsiTV/LampsiTV/playlist.m3u8
+#EXTINF:0,Tilesport TV
+http://tv1.streampulse.eu:1935/tilesport/movie1/live.m3u8
+#EXTINF:0,Vouli TV
+http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+#EXTINF:0,Zougla TV
+http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8

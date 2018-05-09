@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:0,RTL
+http://live01.rtl.lu/channel1/smil:channel1/chunklist.m3u8

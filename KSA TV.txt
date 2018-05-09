@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:0,24 Sport TV
+http://streamer12.elementssys.com:8080/SAUDI-Channels/24_SPORT/playlist.m3u8
+#EXTINF:0,Masdar TV
+http://streamer12.elementssys.com:8080/SAUDI-Channels/MASDAR_TV/index.m3u8
+#EXTINF:0,Rotana Cinema
+http://185.27.116.54:1935/live/rotanacinema/gmswf.m3u8?v=1599780920
+#EXTINF:0,Rotana Classic
+http://185.27.116.54:1935/live/rotanaclassic/gmswf.m3u8?v=1599780920
+#EXTINF:0,Rotana Clip
+http://185.27.116.54:1935/live/rotanaclip/gmswf.m3u8?v=1599780920
+#EXTINF:0,Wanasah
+http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/live/stream1.m3u8

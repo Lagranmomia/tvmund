@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0,Dzair TV 
+http://cdn-hls.globecast.tv/live/ramdisk/dzair_tv/hls_video/dzair_tv-video=1562800-audio_AACL_und_65200_120=65200.m3u8
+#EXTINF:0,Ennahar TV
+http://selevision9887-i.akamaihd.net/hls/live/219290/98874/1.m3u8

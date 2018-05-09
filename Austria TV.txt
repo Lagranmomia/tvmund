@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:0,Austria 24
+http://streaming.austria24.tv/live/stream_360p/playlist.m3u8
+#EXTINF:0,Dorf TV
+http://dorf.openplayout.org/hls/dorf_high/index.m3u8
+#EXTINF:0,KroneHit
+http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8
+#EXTINF:0,KroneHit*
+http://bitcdn-kronehit-live.bitmovin.com/hls/3000k/bitcodin.m3u8
+#EXTINF:0,Okto TV
+http://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/playlist.m3u8
+#EXTINF:0,ORF 1 
+http://apasfiisl.apa.at/ipad/orf1_q4a/orf.sdp/playlist.m3u8
+#EXTINF:0,ORF 2 
+http://apasfiisl.apa.at/ipad/orf2_q4a/orf.sdp/playlist.m3u8
+#EXTINF:0,ORF 3 
+http://apasfiisl.apa.at/ipad/orf3_q4a/orf.sdp/playlist.m3u8
+#EXTINF:0,ORF Sport 
+http://apasfiisl.apa.at/ipad/orfs_q4a/orf.sdp/playlist.m3u8
+#EXTINF:0,RTS Salzburg
+http://80.237.191.228:1935/live/_definst_/RTS2015/playlist.m3u8
+#EXTINF:0,ServusTV
+http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/master.m3u8
+#EXTINF:0,Tirol TV
+http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
+#EXTINF:0,W24
+http://ms01.w24.at/hls-live/livepkgr/_definst_/liveevent.m3u8
